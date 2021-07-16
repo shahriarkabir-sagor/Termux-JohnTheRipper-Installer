@@ -1,4 +1,4 @@
-# Termux-JohnTheRipper-Installer
+### Termux-JohnTheRipper-Installer
 This repo will install popular tool johnTheRipper in your termux 
 Dependecies that it will use
 
