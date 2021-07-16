@@ -15,6 +15,5 @@ To install john the ripper
 wget https://raw.githubusercontent.com/azclub-ltd/Termux-JohnTheRipper-Installer/master/jtr-installer.sh
 ./jtp-installer.sh
 ```
-
 rest of the thing will handle my installer.
 Main john the ripper package link [openwall/john](https://github.com/openwall/john)
