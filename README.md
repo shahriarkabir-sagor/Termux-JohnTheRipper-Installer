@@ -5,6 +5,7 @@ Dependecies that it will use
 
 * wget
 * perl
+* clang
 * build-essential
 * make
 
