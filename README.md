@@ -13,7 +13,7 @@ Dependecies that it will use
 To install john the ripper 
 
 ```
-wget https://raw.githubusercontent.com/azclub-ltd/Termux-JohnTheRipper-Installer/master/jtr-installer.sh
+pkg install wget && wget https://raw.githubusercontent.com/azclub-ltd/Termux-JohnTheRipper-Installer/master/jtr-installer.sh
 ./jtp-installer.sh
 ```
 rest of the thing will handle my installer.
