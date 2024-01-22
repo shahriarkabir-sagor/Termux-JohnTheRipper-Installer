@@ -14,7 +14,7 @@ pkg up -y
 echo -e "${GREEN}Installing dependencies${NC}"
 pkg install git clang perl build-essential make -y
 echo -e "${GREEN}Started cloning core project${NC}"
-git clone git://github.com/magnumripper/JohnTheRipper -b bleeding-jumbo john
+git clone https://github.com/magnumripper/JohnTheRipper -b bleeding-jumbo john
 echo -e "${BLUE}Navigating to the main folder${NC}"
 cd john/src/
 clear
